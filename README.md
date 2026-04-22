@@ -85,4 +85,3 @@ claude skill run study-helper-skill --materials_path="./控制工程基础.pdf" 
 
 > **“把时间留给深度的逻辑推演，把枯燥的资料整理交给 study-helper-skill。”**
 
-[**🐛 提交 Issue**](https://www.google.com/search?q=https://github.com/dingkaihu63/study-helper-skill/issues) | [**💡 探讨新 Feature**](https://www.google.com/search?q=https://github.com/dingkaihu63/study-helper-skill/pulls)
